@@ -168,11 +168,6 @@ const API_SITES = {
     ukzy: {
         api: 'https://api.ukuapi88.com/api.php/provide/vod',
         name: 'U酷资源'
-    },
-        "api_2": {
-            "name": "155资源",
-            "api": "https://155api.com/api.php/provide/vod",
-            "detail": "https://155api.com"
         },
         "api_3": {
             "name": "TV-360资源",
