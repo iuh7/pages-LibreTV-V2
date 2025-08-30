@@ -148,11 +148,6 @@ const API_SITES = {
         api: 'https://api.ukuapi88.com/api.php/provide/vod',
         name: 'U酷资源'
         },
-        "api_3": {
-            "name": "TV-360资源",
-            "api": "https://360zy.com/api.php/provide/vod",
-            "detail": "https://360zy.com"
-        },
         "api_4": {
             "name": "TV-CK资源",
             "api": "https://ckzy.me/api.php/provide/vod",
@@ -163,30 +158,10 @@ const API_SITES = {
             "api": "https://api.ukuapi.com/api.php/provide/vod",
             "detail": "https://api.ukuapi.com"
         },
-        "api_6": {
-            "name": "TV-U酷资源",
-            "api": "https://api.ukuapi88.com/api.php/provide/vod",
-            "detail": "https://api.ukuapi88.com"
-        },
-        "api_7": {
-            "name": "TV-ikun资源",
-            "api": "https://ikunzyapi.com/api.php/provide/vod",
-            "detail": "https://ikunzyapi.com"
-        },
         "api_8": {
             "name": "TV-wujinapi无尽",
             "api": "https://api.wujinapi.cc/api.php/provide/vod",
             "detail": ""
-        },
-        "api_9": {
-            "name": "TV-丫丫点播",
-            "api": "https://cj.yayazy.net/api.php/provide/vod",
-            "detail": "https://cj.yayazy.net"
-        },
-        "api_10": {
-            "name": "TV-光速资源",
-            "api": "https://api.guangsuapi.com/api.php/provide/vod",
-            "detail": "https://api.guangsuapi.com"
         },
         "api_11": {
             "name": "TV-卧龙点播",
@@ -198,11 +173,6 @@ const API_SITES = {
             "api": "https://collect.wolongzy.cc/api.php/provide/vod",
             "detail": ""
         },
-        "api_13": {
-            "name": "TV-卧龙资源",
-            "api": "https://wolongzyw.com/api.php/provide/vod",
-            "detail": "https://wolongzyw.com"
-        },
         "api_14": {
             "name": "TV-天涯资源",
             "api": "https://tyyszy.com/api.php/provide/vod",
@@ -213,22 +183,10 @@ const API_SITES = {
             "api": "https://cj.rycjapi.com/api.php/provide/vod",
             "detail": ""
         },
-        "api_16": {
-            "name": "TV-小猫咪资源",
-            "api": "https://zy.xmm.hk/api.php/provide/vod",
-            "detail": "https://zy.xmm.hk"
-        },
-        "api_17": {
-            "name": "TV-新浪点播",
-            "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
-            "detail": "https://api.xinlangapi.com"
-        },
         "api_18": {
             "name": "TV-无尽资源",
             "api": "https://api.wujinapi.com/api.php/provide/vod",
             "detail": ""
-       
-     
         },
         "api_21": {
             "name": "TV-旺旺短剧",
@@ -1529,56 +1487,6 @@ const API_SITES = {
         "apilj_json": {
             "name": "成人06",
             "api": "https://apilj.com/api.php/provide/vod/at/json",
-            "detail": ""
-        },
-        "bajiecaiji": {
-            "name": "八戒云",
-            "api": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
-            "detail": ""
-        },
-        "ahjiuman": {
-            "name": "飘花",
-            "api": "http://www.ahjiuman.com/api.php/provide/vod/at/json",
-            "detail": ""
-        },
-        "911ysw": {
-            "name": "天翼|点播",
-            "api": "https://www.911ysw.top/tianyi.php/provide/vod/",
-            "detail": ""
-        },
-        "xzcjz": {
-            "name": "熊掌|点播",
-            "api": "https://xzcjz.com/api.php/provide/vod/",
-            "detail": ""
-        },
-        "kuaikan": {
-            "name": "快看资源",
-            "api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikanyun",
-            "detail": ""
-        },
-        "kuaiyunzy": {
-            "name": "快云资源",
-            "api": "https://www.kuaiyunzy.com/api.php/provide/vod/",
-            "detail": ""
-        },
-        "xkanzy10": {
-            "name": "享看资源",
-            "api": "https://xkanzy10.com/api.php/provide/vod/",
-            "detail": ""
-        },
-        "42_la": {
-            "name": "42资源",
-            "api": "https://www.42.la/api.php/provide/vod/",
-            "detail": ""
-        },
-        "leshizyapi": {
-            "name": "乐视资源",
-            "api": "https://leshizyapi.com/api.php/provide/vod/",
-            "detail": ""
-        },
-        "82_156_40_118": {
-            "name": "至圣云",
-            "api": "http://82.156.40.118:1234/api.php/provide/vod/",
             "detail": ""
         },
         "hw8": {
