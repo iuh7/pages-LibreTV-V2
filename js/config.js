@@ -174,6 +174,81 @@ const API_SITES = {
         api: 'https://api.ukuapi88.com/api.php/provide/vod',
         name: 'U酷资源'
     },
+        "api_2": {
+            "name": "155资源",
+            "api": "https://155api.com/api.php/provide/vod",
+            "detail": "https://155api.com"
+        },
+        "api_3": {
+            "name": "TV-360资源",
+            "api": "https://360zy.com/api.php/provide/vod",
+            "detail": "https://360zy.com"
+        },
+        "api_4": {
+            "name": "TV-CK资源",
+            "api": "https://ckzy.me/api.php/provide/vod",
+            "detail": "https://ckzy.me"
+        },
+        "api_5": {
+            "name": "TV-U酷资源",
+            "api": "https://api.ukuapi.com/api.php/provide/vod",
+            "detail": "https://api.ukuapi.com"
+        },
+        "api_6": {
+            "name": "TV-U酷资源",
+            "api": "https://api.ukuapi88.com/api.php/provide/vod",
+            "detail": "https://api.ukuapi88.com"
+        },
+        "api_7": {
+            "name": "TV-ikun资源",
+            "api": "https://ikunzyapi.com/api.php/provide/vod",
+            "detail": "https://ikunzyapi.com"
+        },
+        "api_8": {
+            "name": "TV-wujinapi无尽",
+            "api": "https://api.wujinapi.cc/api.php/provide/vod",
+            "detail": ""
+        },
+        "api_9": {
+            "name": "TV-丫丫点播",
+            "api": "https://cj.yayazy.net/api.php/provide/vod",
+            "detail": "https://cj.yayazy.net"
+        },
+        "api_10": {
+            "name": "TV-光速资源",
+            "api": "https://api.guangsuapi.com/api.php/provide/vod",
+            "detail": "https://api.guangsuapi.com"
+        },
+        "api_11": {
+            "name": "TV-卧龙点播",
+            "api": "https://collect.wolongzyw.com/api.php/provide/vod",
+            "detail": "https://collect.wolongzyw.com"
+        },
+        "api_12": {
+            "name": "TV-卧龙资源",
+            "api": "https://collect.wolongzy.cc/api.php/provide/vod",
+            "detail": ""
+        },
+        "api_13": {
+            "name": "TV-卧龙资源",
+            "api": "https://wolongzyw.com/api.php/provide/vod",
+            "detail": "https://wolongzyw.com"
+        },
+        "api_14": {
+            "name": "TV-天涯资源",
+            "api": "https://tyyszy.com/api.php/provide/vod",
+            "detail": "https://tyyszy.com"
+        },
+        "api_15": {
+            "name": "TV-如意资源",
+            "api": "https://cj.rycjapi.com/api.php/provide/vod",
+            "detail": ""
+        },
+        "api_16": {
+            "name": "TV-小猫咪资源",
+            "api": "https://zy.xmm.hk/api.php/provide/vod",
+            "detail": "https://zy.xmm.hk"
+        },
 };
 // 定义合并方法
 function extendAPISites(newSites) {
