@@ -123,7 +123,6 @@ const API_SITES = {
     subo: {
         api: 'https://subocaiji.com/api.php/provide/vod',
         name: '速播资源'
-        adult: true
     },
     ukzy: {
         api: 'https://api.ukuapi88.com/api.php/provide/vod',
