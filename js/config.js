@@ -76,7 +76,6 @@ const API_SITES = {
     lzi: {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '量子资源站'
-        adult: true
     },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
