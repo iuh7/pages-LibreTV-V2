@@ -187,11 +187,6 @@ const API_SITES = {
             "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
             "detail": "http://caiji.dyttzyapi.com"
         },
-        "api_36": {
-            "name": "TV-虎牙资源",
-            "api": "https://www.huyaapi.com/api.php/provide/vod",
-            "detail": "https://www.huyaapi.com"
-        },
         "api_40": {
             "name": "TV-速博资源",
             "api": "https://subocaiji.com/api.php/provide/vod",
@@ -201,11 +196,6 @@ const API_SITES = {
             "name": "TV-量子资源",
             "api": "https://cj.lziapi.com/api.php/provide/vod",
             "detail": ""
-        },
-        "api_42": {
-            "name": "TV-金鹰点播",
-            "api": "https://jinyingzy.com/api.php/provide/vod",
-            "detail": "https://jinyingzy.com"
         },
         "api_45": {
             "name": "TV-非凡资源",
@@ -253,11 +243,6 @@ const API_SITES = {
             "api": "https://cj.lziapi.com/api.php/provide/vod/",
             "detail": ""
         },
-        "dyttzy": {
-            "name": "示例资源",
-            "api": "http://xxx.com/api.php/provide/vod",
-            "detail": "http://xxx.com"
-        },
         "hongniu_m3u8": {
             "name": "紅牛資源",
             "api": "http://hongniuzy2.com/api.php/provide/vod/from/hnm3u8",
@@ -268,19 +253,9 @@ const API_SITES = {
             "api": "http://cj.lziapi.com/api.php/provide/vod/from/lzm3u8",
             "detail": ""
         },
-        "jyzyapi_m3u8": {
-            "name": "金鹰资源",
-            "api": "http://jyzyapi.com/provide/vod/from/jinyingm3u8",
-            "detail": ""
-        },
         "guangsu_m3u8": {
             "name": "光速资源",
             "api": "http://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8",
-            "detail": ""
-        },
-        "hw8": {
-            "name": "华为吧|点播",
-            "api": "https://hw8.live/api.php/provide/vod/",
             "detail": ""
     },
 };
