@@ -82,6 +82,11 @@ const API_SITES = {
         name: '空内容测试源',
         adult: true
     },
+    testSource: {
+        api: 'https://api.ffzyapi.com/api.php/provide/vod',
+        name: '非凡影视new',
+        adult: true
+    },
     ckzy: {
         api: 'http://fhapi9.com/api.php/provide/vod',
         name: 'TV-番号资源',
