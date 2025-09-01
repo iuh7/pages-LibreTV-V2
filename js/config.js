@@ -88,8 +88,8 @@ const API_SITES = {
         adult: true
     },
     ckzy: {
-        api: 'https://xingba111.com/api.php/provide/vod',
-        name: '行a',
+        api: 'https://cj.lziapi.com/api.php/provide/vod',
+        name: 'adb',
         adult: true
     },
     jkun: {
