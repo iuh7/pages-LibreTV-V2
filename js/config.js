@@ -26,10 +26,12 @@ const API_SITES = {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
         name: '电影天堂资源',
         detail: 'http://caiji.dyttzyapi.com', 
+        adult: true
     },
     ruyi: {
         api: 'https://cj.rycjapi.com/api.php/provide/vod',
         name: '如意资源',
+        adult: true
     },
     bfzy: {
         api: 'https://bfzyapi.com/api.php/provide/vod',
@@ -39,44 +41,54 @@ const API_SITES = {
     tyyszy: {
         api: 'https://tyyszy.com/api.php/provide/vod',
         name: '天涯资源',
+        adult: true
     },
     ffzy: {
         api: 'http://ffzy5.tv/api.php/provide/vod',
         name: '非凡影视',
         detail: 'http://ffzy5.tv', 
+        adult: true
     },
     jisu: {
         api: 'https://jszyapi.com/api.php/provide/vod',
         name: '极速资源',
         detail: 'https://jszyapi.com', 
+        adult: true
     },
     dbzy: {
         api: 'https://dbzy.tv/api.php/provide/vod',
         name: '豆瓣资源',
+        adult: true
     },
     mdzy: {
         api: 'https://www.mdzyapi.com/api.php/provide/vod',
         name: '魔都资源',
+        adult: true
     },
     zuid: {
         api: 'https://api.zuidapi.com/api.php/provide/vod',
         name: '最大资源'
+        adult: true
     },
     wujin: {
         api: 'https://api.wujinapi.me/api.php/provide/vod',
         name: '无尽资源'
+        adult: true
     },
     wwzy: {
         api: 'https://wwzy.tv/api.php/provide/vod',
         name: '旺旺短剧'
+        adult: true
     },
     ikun: {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: 'iKun资源'
+        adult: true
     },
     lzi: {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '量子资源站'
+        adult: true
     },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
