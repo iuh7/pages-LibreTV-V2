@@ -83,39 +83,39 @@ const API_SITES = {
         adult: true
     },
     ckzy: {
-        api: 'https://cj.lziapi.com/api.php/provide/vod',
-        name: 'adb',
+        api: 'http://fhapi9.com/api.php/provide/vod',
+        name: 'TV-番号资源',
         adult: true
     },
     jkun: {
-        api: 'https://jkunzyapi.com',
-        name: 'jkun资源',
+        api: 'https://91md.me/api.php/provide/vod/from/mdm3u8/',
+        name: '91麻豆',
         adult: true
     },
     bwzy: {
-        api: 'https://api.bwzym3u8.com',
-        name: '百万资源',
+        api: 'https://xxavs.com/api.php/provide/vod/',
+        name: '湿乐园',
         adult: true
     },
     souav: {
-        api: 'https://api.souavzy.vip',
-        name: 'souav资源',
+        api: 'https://www.avre06.com/api.php/provide/vod',
+        name: '黄瓜',
         adult: true
     },
     lsb: {
-        api: 'https://apilsbzy1.com',
-        name: 'lsb资源',
+        api: 'https://hsckzy888.com/api.php/provide/vod',
+        name: '黄色资源啊啊',
         adult: true
     },
     huangcang: {
-        api: 'https://hsckzy.vip',
-        name: '黄色仓库',
+        api: 'https://xingba111.com/api.php/provide/vod',
+        name: '杏吧资源',
         adult: true,
         detail: 'https://hsckzy.vip'
     },
     yutu: {
-        api: 'https://yutuzy10.com',
-        name: '玉兔资源',
+        api: 'https://jkunzyapi.com/api.php/provide/vod',
+        name: 'JKUN资源',
         adult: true
     },
 
