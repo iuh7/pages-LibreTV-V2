@@ -23,46 +23,46 @@ const SITE_CONFIG = {
 // API站点配置
 const API_SITES = {
     dyttzy: {
-        api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
-        name: '电影天堂资源',
+        api: 'https://apilj.com/api.php/provide/vod/at/json',
+        name: '成人06',
         detail: 'http://caiji.dyttzyapi.com', 
         adult: true
     },
     ruyi: {
-        api: 'https://cj.rycjapi.com/api.php/provide/vod',
-        name: '如意资源',
+        api: 'https://caiji.semaozy.net/inc/apijson_vod.php',
+        name: '色猫',
         adult: true
     },
     bfzy: {
-        api: 'https://bfzyapi.com/api.php/provide/vod',
-        name: '暴风资源',
+        api: 'https://kuaiavzy.com/api.php/provide/vod',
+        name: '快av',
         adult: true
     },
     tyyszy: {
-        api: 'https://tyyszy.com/api.php/provide/vod',
-        name: '天涯资源',
+        api: 'https://apisesehuzy.com/api.php/provide/vod',
+        name: '色虎',
         adult: true
     },
     ffzy: {
-        api: 'http://ffzy5.tv/api.php/provide/vod',
-        name: '非凡影视',
+        api: 'https://vnzyz.com/api.php/provide/vod',
+        name: '越南',
         detail: 'http://ffzy5.tv', 
         adult: true
     },
     jisu: {
-        api: 'https://jszyapi.com/api.php/provide/vod',
-        name: '极速资源',
+        api: 'https://91md.me/api.php/provide/vod/from/mdm3u8/',
+        name: '91麻豆',
         detail: 'https://jszyapi.com', 
         adult: true
     },
     dbzy: {
-        api: 'https://dbzy.tv/api.php/provide/vod',
-        name: '豆瓣资源',
+        api: 'https://www.jingpinx.com/api.php/provide/vod',
+        name: 'TV-精品资源',
         adult: true
     },
     mdzy: {
-        api: 'https://www.mdzyapi.com/api.php/provide/vod',
-        name: '魔都资源',
+        api: 'https://apiyutu.com/api.php/provide/vod',
+        name: 'TV-玉兔资源',
         adult: true
     },
     zuid: {
