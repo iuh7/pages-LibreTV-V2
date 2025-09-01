@@ -87,6 +87,11 @@ const API_SITES = {
         name: '行',
         adult: true
     },
+    ckzy: {
+        api: 'https://xingba111.com/api.php/provide/vod',
+        name: '行a',
+        adult: true
+    },
     jkun: {
         api: 'https://jkunzyapi.com',
         name: 'jkun资源',
