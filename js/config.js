@@ -97,6 +97,11 @@ const API_SITES = {
         name: '湿乐园',
         adult: true
     },
+    bwzy: {
+        api: 'https://Naixxzy.com/api.php/provide/vod',
+        name: '奶香香',
+        adult: true
+    },
     souav: {
         api: 'https://www.avre06.com/api.php/provide/vod',
         name: '黄瓜',
