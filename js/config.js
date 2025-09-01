@@ -34,6 +34,7 @@ const API_SITES = {
     bfzy: {
         api: 'https://bfzyapi.com/api.php/provide/vod',
         name: '暴风资源',
+        adult: true
     },
     tyyszy: {
         api: 'https://tyyszy.com/api.php/provide/vod',
