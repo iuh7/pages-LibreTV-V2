@@ -33,6 +33,11 @@ const API_SITES = {
         name: '色猫',
         adult: true
     },
+    ruyi: {
+        api: 'http://lbapiby.com/api.php/provide/vod',
+        name: 'AIvin',
+        adult: true
+    },
     bfzy: {
         api: 'https://kuaiavzy.com/api.php/provide/vod',
         name: '快av',
