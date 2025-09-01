@@ -234,6 +234,7 @@ const API_SITES = {
             "name": "奶香香",
             "api": "https://Naixxzy.com/api.php/provide/vod",
             "detail": "https://Naixxzy.com"
+            adult: true
         },
         "api_61": {
             "name": "TV-玉兔资源",
@@ -244,11 +245,13 @@ const API_SITES = {
             "name": "TV-番号资源",
             "api": "http://fhapi9.com/api.php/provide/vod",
             "detail": ""
+            adult: true
         },
         "api_64": {
             "name": "TV-精品资源",
             "api": "https://www.jingpinx.com/api.php/provide/vod",
             "detail": "https://www.jingpinx.com"
+            adult: true
         },
         "ffzynew": {
             "name": "非凡影视new",
@@ -259,11 +262,13 @@ const API_SITES = {
             "name": "杏吧资源",
             "api": "https://xingba111.com/api.php/provide/vod",
             "detail": ""
+            adult: true
         },
         "huangseziy": {
             "name": "黄色资源啊啊",
             "api": "https://hsckzy888.com/api.php/provide/vod",
             "detail": ""
+            adult: true
         },
         "xiaojiziy": {
             "name": "小鸡资源",
@@ -304,46 +309,55 @@ const API_SITES = {
             "name": "91视频",
             "api": "https://91av.cyou/api.php/provide/vod/",
             "detail": ""
+            adult: true
         },
         "xxavs": {
             "name": "湿乐园",
             "api": "https://xxavs.com/api.php/provide/vod/",
             "detail": ""
+            adult: true
         },
         "mdm3u8": {
             "name": "91麻豆",
             "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
             "detail": ""
+            adult: true
         },
         "vnzyz": {
             "name": "越南(直连)",
             "api": "https://vnzyz.com/api.php/provide/vod",
             "detail": ""
+            adult: true
         },
         "avre06": {
             "name": "黄瓜(直连)",
             "api": "https://www.avre06.com/api.php/provide/vod",
             "detail": ""
+            adult: true
         },
         "apisesehuzy": {
             "name": "色虎(直连)",
             "api": "https://apisesehuzy.com/api.php/provide/vod",
             "detail": ""
+            adult: true
         },
         "kuai": {
             "name": "快av(FQ)",
             "api": "https://kuaiavzy.com/api.php/provide/vod",
             "detail": ""
+            adult: true
         },
         "semaozy": {
             "name": "色猫(FQ)",
             "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
             "detail": ""
+            adult: true
         },
         "apilj_json": {
             "name": "成人06",
             "api": "https://apilj.com/api.php/provide/vod/at/json",
             "detail": ""
+            adult: true
         },
         "hw8": {
             "name": "华为吧|点播",
