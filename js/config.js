@@ -101,8 +101,8 @@ const API_SITES = {
         adult: true
     },
     jkun: {
-        api: 'https://91md.me/api.php/provide/vod/from/mdm3u8/',
-        name: '91麻豆',
+        api: 'https://91av.cyou/api.php/provide/vod/',
+        name: '91视频',
         adult: true
     },
     bwzy: {
@@ -281,11 +281,6 @@ const API_SITES = {
         "guangsu_m3u8": {
             "name": "光速资源",
             "api": "http://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8",
-            "detail": ""
-        },
-        "91av": {
-            "name": "91视频",
-            "api": "https://91av.cyou/api.php/provide/vod/",
             "detail": ""
         },
         "hw8": {
