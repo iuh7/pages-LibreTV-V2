@@ -23,14 +23,14 @@ const SITE_CONFIG = {
 // API站点配置
 const API_SITES = {
     dyttzy: {
-        api: 'https://apilj.com/api.php/provide/vod/at/json',
-        name: '成人06',
+        api: 'https://lbapi9.com/api.php/provide/vod',
+        name: '乐播资源',
         detail: 'http://caiji.dyttzyapi.com', 
         adult: true
     },
     ruyi: {
-        api: 'https://caiji.semaozy.net/inc/apijson_vod.php',
-        name: '色猫',
+        api: 'http://lbapiby.com/api.php/provide/vod',
+        name: 'AIvin',
         adult: true
     },
     bfzy: {
@@ -211,32 +211,11 @@ const API_SITES = {
             "name": "TV-魔都动漫",
             "api": "https://caiji.moduapi.cc/api.php/provide/vod",
             "detail": "https://caiji.moduapi.cc"
-      
-        },
-        "api_53": {
-            "name": "AIvin",
-            "api": "http://lbapiby.com/api.php/provide/vod",
-            "detail": ""
-        },
-        "api_55": {
-            "name": "souav资源",
-            "api": "https://api.souavzy.vip/api.php/provide/vod",
-            "detail": "https://api.souavzy.vip"
-        },
-        "api_56": {
-            "name": "乐播资源",
-            "api": "https://lbapi9.com/api.php/provide/vod",
-            "detail": ""
         },
         "ffzynew": {
             "name": "非凡影视new",
             "api": "https://api.ffzyapi.com/api.php/provide/vod",
             "detail": "http://ffzy5.tv"
-        },
-        "xiaojiziy": {
-            "name": "小鸡资源",
-            "api": "https://api.xiaojizy.live/provide/vod",
-            "detail": ""
         },
         "yingshigongchang": {
             "name": "影视工厂",
