@@ -93,7 +93,6 @@ const API_SITES = {
     ckzy: {
         api: 'http://fhapi9.com/api.php/provide/vod',
         name: 'TV-番号资源',
-        adult: true
     },
     jkun: {
         api: 'https://91av.cyou/api.php/provide/vod/',
