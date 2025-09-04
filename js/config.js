@@ -33,28 +33,6 @@ const API_SITES = {
         name: 'AIvin',
         adult: true
     },
-    bfzy: {
-        api: 'https://kuaiavzy.com/api.php/provide/vod',
-        name: '快av',
-        adult: true
-    },
-    tyyszy: {
-        api: 'https://apisesehuzy.com/api.php/provide/vod',
-        name: '色虎',
-        adult: true
-    },
-    ffzy: {
-        api: 'https://vnzyz.com/api.php/provide/vod',
-        name: '越南',
-        detail: 'http://ffzy5.tv', 
-        adult: true
-    },
-    jisu: {
-        api: 'https://91md.me/api.php/provide/vod/from/mdm3u8/',
-        name: '91麻豆',
-        detail: 'https://jszyapi.com', 
-        adult: true
-    },
     dbzy: {
         api: 'https://www.jingpinx.com/api.php/provide/vod',
         name: 'TV-精品资源',
@@ -112,11 +90,6 @@ const API_SITES = {
     souav: {
         api: 'https://www.avre06.com/api.php/provide/vod',
         name: '黄瓜',
-        adult: true
-    },
-    lsb: {
-        api: 'https://hsckzy888.com/api.php/provide/vod',
-        name: '黄色资源啊啊',
         adult: true
     },
     huangcang: {
