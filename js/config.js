@@ -28,16 +28,6 @@ const API_SITES = {
         detail: 'http://caiji.dyttzyapi.com', 
         adult: true
     },
-    ruyi: {
-        api: 'http://lbapiby.com/api.php/provide/vod',
-        name: 'AIvin',
-        adult: true
-    },
-    dbzy: {
-        api: 'https://www.jingpinx.com/api.php/provide/vod',
-        name: 'TV-精品资源',
-        adult: true
-    },
     zuid: {
         api: 'https://api.zuidapi.com/api.php/provide/vod',
         name: '最大资源'
@@ -61,37 +51,6 @@ const API_SITES = {
     testSource: {
         api: 'https://api.ffzyapi.com/api.php/provide/vod',
         name: '非凡影视new',
-        adult: true
-    },
-    ckzy: {
-        api: 'http://fhapi9.com/api.php/provide/vod',
-        name: 'TV-番号资源',
-        adult: true
-    },
-    jkun: {
-        api: 'https://91av.cyou/api.php/provide/vod/',
-        name: '91视频',
-        adult: true
-    },
-    bwzy: {
-        api: 'https://xxavs.com/api.php/provide/vod/',
-        name: '湿乐园',
-        adult: true
-    },
-    bwzy: {
-        api: 'https://Naixxzy.com/api.php/provide/vod',
-        name: '奶香香',
-        adult: true
-    },
-    huangcang: {
-        api: 'https://xingba111.com/api.php/provide/vod',
-        name: '杏吧资源',
-        adult: true,
-        detail: 'https://hsckzy.vip'
-    },
-    yutu: {
-        api: 'https://jkunzyapi.com/api.php/provide/vod',
-        name: 'JKUN资源',
         adult: true
     },
 
