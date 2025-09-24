@@ -23,8 +23,8 @@ const SITE_CONFIG = {
 // API站点配置
 const API_SITES = {
     dyttzy: {
-        api: 'https://lbapi9.com/api.php/provide/vod',
-        name: '乐播资源',
+        api: 'https://apiyutu.com/api.php/provide/vod',
+        name: 'TV-玉兔资源',
         detail: 'http://caiji.dyttzyapi.com', 
         adult: true
     },
@@ -36,11 +36,6 @@ const API_SITES = {
     dbzy: {
         api: 'https://www.jingpinx.com/api.php/provide/vod',
         name: 'TV-精品资源',
-        adult: true
-    },
-    mdzy: {
-        api: 'https://apiyutu.com/api.php/provide/vod',
-        name: 'TV-玉兔资源',
         adult: true
     },
     zuid: {
@@ -86,11 +81,6 @@ const API_SITES = {
     bwzy: {
         api: 'https://Naixxzy.com/api.php/provide/vod',
         name: '奶香香',
-        adult: true
-    },
-    souav: {
-        api: 'https://www.avre06.com/api.php/provide/vod',
-        name: '黄瓜',
         adult: true
     },
     huangcang: {
