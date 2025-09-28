@@ -87,16 +87,6 @@ const API_SITES = {
             "name": "TV-如意资源",
             "api": "https://cj.rycjapi.com/api.php/provide/vod",
             "detail": ""
-        },
-        "api_18": {
-            "name": "TV-无尽资源",
-            "api": "https://api.wujinapi.com/api.php/provide/vod",
-            "detail": ""
-        },
-        "api_21": {
-            "name": "TV-旺旺短剧",
-            "api": "https://wwzy.tv/api.php/provide/vod",
-            "detail": "https://wwzy.tv"
         
         },
         "api_23": {
@@ -147,11 +137,6 @@ const API_SITES = {
         "hongniu_m3u8": {
             "name": "紅牛資源",
             "api": "http://hongniuzy2.com/api.php/provide/vod/from/hnm3u8",
-            "detail": ""
-        },
-        "lzi_m3u8": {
-            "name": "量子資源",
-            "api": "http://cj.lziapi.com/api.php/provide/vod/from/lzm3u8",
             "detail": ""
         },
         "guangsu_m3u8": {
