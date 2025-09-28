@@ -23,8 +23,8 @@ const SITE_CONFIG = {
 // API站点配置
 const API_SITES = {
     dyttzy: {
-        api: 'https://lbapi9.com/api.php/provide/vod',
-        name: '乐播资源',
+        api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
+        name: 'TV-电影天堂资源',
         detail: 'http://caiji.dyttzyapi.com', 
         adult: true
     },
@@ -47,11 +47,6 @@ const API_SITES = {
     lzi: {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '量子资源站'
-    },
-    testSource: {
-        api: 'http://lbapiby.com/api.php/provide/vod',
-        name: 'AIvin',
-        adult: true
     },
 
     // 下面是资源失效率高的API源，不建议使用
@@ -93,11 +88,6 @@ const API_SITES = {
             "name": "TV-暴风资源",
             "api": "https://bfzyapi.com/api.php/provide/vod",
             "detail": ""
-        },
-        "api_29": {
-            "name": "TV-电影天堂资源",
-            "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-            "detail": "http://caiji.dyttzyapi.com"
         },
         "api_40": {
             "name": "TV-速博资源",
