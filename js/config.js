@@ -23,9 +23,9 @@ const SITE_CONFIG = {
 // API站点配置
 const API_SITES = {
     dyttzy: {
-        api: 'https://apiyutu.com/api.php/provide/vod',
-        name: 'TV-玉兔资源',
-        detail: 'http://caiji.dyttzyapi.com', 
+        api: 'https://xingba111.com/api.php/provide/vod',
+        name: '杏吧资源',
+        detail: 'https://hsckzy.vip', 
         adult: true
     },
     zuid: {
