@@ -23,9 +23,9 @@ const SITE_CONFIG = {
 // API站点配置
 const API_SITES = {
     dyttzy: {
-        api: 'https://xingba111.com/api.php/provide/vod',
-        name: '杏吧资源',
-        detail: 'https://hsckzy.vip', 
+        api: 'https://lbapi9.com/api.php/provide/vod',
+        name: '乐播资源',
+        detail: 'http://caiji.dyttzyapi.com', 
         adult: true
     },
     zuid: {
@@ -49,8 +49,8 @@ const API_SITES = {
         name: '量子资源站'
     },
     testSource: {
-        api: 'https://api.ffzyapi.com/api.php/provide/vod',
-        name: '非凡影视new',
+        api: 'http://lbapiby.com/api.php/provide/vod',
+        name: 'AIvin',
         adult: true
     },
 
